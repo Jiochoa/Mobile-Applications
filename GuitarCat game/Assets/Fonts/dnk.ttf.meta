@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a37ba694f389bd643a3bf78e2cd7e75d
+timeCreated: 1507189262
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Damn Noisy Kids
+  fontNames:
+  - Damn Noisy Kids
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
